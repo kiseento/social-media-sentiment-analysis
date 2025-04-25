@@ -34,5 +34,4 @@ It explores trending topics and public sentiment from social media platforms usi
 You can download and explore the `.pbix` file using Power BI Desktop from the `dashboard/` folder.
 
 This project was created by Philip Leteipa Kiseento.  
-
-
+Feel free to reach out or check out my LinkedIn: www.linkedin.com/in/philip-kiseento-36592a248
